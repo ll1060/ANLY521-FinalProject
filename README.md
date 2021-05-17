@@ -22,6 +22,8 @@ train and test split, initialize tf-idf vectorizer, train word2vec model, calcul
    
 example usage: python yelp_2_4_star_Review_Classification.py --yelp_review yelp_review.csv
 
+4. writeup.pdf: a write-up that describes objective, dataset used, methods, background, results and discussions.
+
 # Requirements:
 The follow packages are needed:\
 os\
@@ -38,4 +40,4 @@ sklearn: metrics\
 sklearn: svm\
 gensim\
 argparse\
-sklearn: naive_bayes\
+sklearn: naive_bayes
